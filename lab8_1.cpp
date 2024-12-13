@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+  cout << "Hello Fai";
   char rank;
   cout << "Input your rank: ";
   cin >> rank;
